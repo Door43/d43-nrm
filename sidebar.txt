@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nrm:home|Door43 (nrm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nrm|d43-nrm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nrm/archive/master.zip|d43-nrm.zip]]
+
+**Recent Changes**
+{{changes>ns = nrm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nrm|Ethnologue data]]
+
